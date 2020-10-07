@@ -1,0 +1,6 @@
+{
+    "token": "",
+    "prefix": "?",
+    "mongoPath": "mongodb+srv://botzao:RM3bJGBCVlLuOyJm@cluster0.4rzcn.gcp.mongodb.net/Teste?retryWrites=true&w=majority",
+    "redisPath": "redis path here"
+  }
